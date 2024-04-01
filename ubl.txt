@@ -1,6 +1,7 @@
 
 ! 2024-03-29 https://www.agit351.com 웹툰 내용 위 도박, 성인광고 차단
 !www.agit351.com##.view-banner-top-end.col-12
+!/agit[0-9]+\.com/##.view-banner-top-end.col-12
 ##.view-banner-top-end.col-12
 
 ! 2024-04-01 https://agit352.com 웹툰 내용 위 보증토토 배너
