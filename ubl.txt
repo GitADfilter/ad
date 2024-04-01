@@ -1,2 +1,2 @@
 !www.agit351.com##.view-banner-top-end.col-12
-\agit[0-9]+\.com##.view-banner-top-end.col-12
+/agit[0-9]+\.com/##.view-banner-top-end.col-12
