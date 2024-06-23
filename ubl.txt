@@ -21,3 +21,8 @@
 !##[href="http://bk-guarantee.com/"]
 /agit[0-9]+\.xyz/##[href="http://bk-guarantee.com/"]
 
+
+! 2024. 6. 23. https://agit660.xyz
+!agit660.xyz##.banner.row
+/agit[0-9]+\.xyz/##.banner.row
+!화면 상단 도박 광고 배너 제거
